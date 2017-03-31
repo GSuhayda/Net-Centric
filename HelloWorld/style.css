@@ -1,0 +1,12 @@
+body{
+    background-color: purple;
+}
+
+p{
+    font-family: Impact;
+    border-style: dashed;
+    border-color: green;
+    color: greenyellow;
+    text-align:center;
+    
+}
